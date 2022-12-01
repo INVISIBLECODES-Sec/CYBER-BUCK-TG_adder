@@ -8,7 +8,9 @@ from telethon.tl.functions.channels import InviteToChannelRequest
 import time, os, sys, json
 
 wt = (
-    '''                                                
+    ''' 
+       ＩＮＶＩＳＩＢＬＥ ＳＥＣＵＲＩＴＹ  
+                THE      
         ╔═╗╦ ╦╔╗ ╔═╗╦═╗  ╔╗ ╦ ╦╔═╗╦╔═
         ║  ╚╦╝╠╩╗║╣ ╠╦╝  ╠╩╗║ ║║  ╠╩╗
         ╚═╝ ╩ ╚═╝╚═╝╩╚═  ╚═╝╚═╝╚═╝╩ ╩
